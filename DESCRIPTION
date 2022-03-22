@@ -1,0 +1,21 @@
+Package: properTy
+Type: Package
+Title: Exploration of properties of T cells
+Version: 1.1.0
+Author: Yaru
+Maintainer: Yaru <1099656126@qq.com>
+Description: Naive/memory, effector, cycotoxic, activation, co-simulatory, and exhaustion properties of T cells
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+  SummarizedExperiment,
+  dplyr,
+  data.table,
+  foreach,
+  GSEABase,
+  SingleCellExperiment,
+  cowplot,
+  methods
+Depends: R (>= 3.5.0)
+RoxygenNote: 7.1.1

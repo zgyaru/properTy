@@ -1,0 +1,96 @@
+Genes	Property	State	PMID
+PDCD1	inhibitory		"3,371,127,333,961,990"
+HAVCR2	inhibitory		"3,371,127,333,961,990"
+TIGIT	inhibitory		33711273
+LAG3	inhibitory		"3,371,127,333,961,990"
+CTLA4	inhibitory		33711273
+KLRG1	inhibitory		"3,371,127,334,489,430"
+TNFRSF14	inhibitory		33711273
+BTLA	inhibitory		33711273
+CD244	inhibitory		33711273
+CD160	inhibitory		33711273
+TOX	inhibitory		33961994
+CD69	activation		33711273
+IL2RA	activation		33711273
+ICOS	activation		33711273
+TNFRSF4	activation		33711273
+TNFRSF9	activation		33711273
+HLA-DRA	activation		33711273
+FASLG	activation		33711273
+CD40LG	activation		33711273
+ENTPD1	activation		34489433
+ITGAE	activation		34489433
+JUNB	activation	early	33961994
+FOS	activation	early	33961994
+ATF3	activation	early	33961994
+HSPA1A	activation	early	33961994
+DNAJB1	activation	early	33961994
+NR4A1	dysfunction		33961994
+GZMA	cytolytic		"3,371,127,334,489,430"
+GZMB	cytolytic		"3,371,127,334,489,430"
+GZMH	cytolytic		"3,371,127,334,489,430"
+GZMK	cytolytic		33711273
+GZMM	cytolytic		33711273
+PRF1	cytolytic		"3,371,127,334,489,430"
+NKG7	cytolytic		"3,371,127,334,489,430"
+GNLY	cytolytic		"3,371,127,334,489,430"
+LAMP1	cytolytic		33711273
+IL2	cytokines		33711273
+IFNG	cytokines		33711273
+TNF	cytokines		33711273
+PRF1	cytotoxic		34489433
+IFNG	cytotoxic		34489433
+GNLY	cytotoxic		34489433
+NKG7	cytotoxic		34489433
+GZMB	cytotoxic		34489433
+GZMA	cytotoxic		34489433
+GZMH	cytotoxic		34489433
+KLRK1	cytotoxic		34489433
+KLRB1	cytotoxic		34489433
+KLRD1	cytotoxic		34489433
+CTSW	cytotoxic		34489433
+CST7	cytotoxic		34489433
+CCL4	cytotoxic		34489433
+CCL3	cytotoxic		34489433
+FCGR3A 	cytotoxic	mature	31118283
+CD3E	Lineage		
+CD4	Lineage		
+CD8A	Lineage		
+SELL	Na?ve/memory		
+CCR7	Na?ve/memory		
+IL7R	Na?ve/memory		
+FAS	Na?ve/memory		
+CD27	Na?ve/memory		
+CD28	Na?ve/memory		
+ITGAE	Na?ve/memory		
+KLRB1	Na?ve/memory		
+TOX	TF		
+TCF7	TF		
+EOMES	TF		
+TBX21	TF		
+PRDM1	TF		
+ZNF683	TF		
+FOXP3	TF		
+GATA3	TF		
+LEF1	TF		
+ID2	TF		
+ID3	TF		
+MKI67	cellCycle		
+TOP2A	cellCycle		
+PDCD1	exhausted		
+TIGIT	exhausted		
+LAG3	exhausted		
+HAVCR2	exhausted		
+TOX	exhausted		
+CCR5	exhausted		
+TNFRSF18	co-simulatory		
+IGFLR1	co-simulatory		
+TNFRSF9	co-simulatory		
+TNFRSF4	co-simulatory		
+LGALS9	co-simulatory		
+ICOS	co-simulatory		
+CD28	co-simulatory		
+CD27	co-simulatory		
+TNFSF14	co-simulatory		
+KLRG1	co-simulatory		
+B3GAT1	co-simulatory		
