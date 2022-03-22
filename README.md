@@ -24,7 +24,7 @@ data = loadExample()
 score = properTy(scMat = data@assays@data$counts, 
                  clusterNames = data.frame(data$clusterNames, row.names = colnames(data)))
 ```
-### Step 3. Visulizing immune properties of interested T cells
+### Step 3. Visulizing immune properties of interested T subSets
 ```
 DensityProp(score, 
             c('CD8+ Tex-SPRY1', 'CD8+ Tex-XAF1', 'CD8+ Tex-MKI67')   ## interested cell cluster names
