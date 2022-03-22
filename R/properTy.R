@@ -99,7 +99,7 @@ loadExample = function(){
   f = system.file("testData.rds",package = "properTy")
   if(f == ""){
     stop("Could not find example data directory, try-re-installing
-         'testSctpa properTy'")
+         'properTy'")
   }
   readRDS(f)
 }
